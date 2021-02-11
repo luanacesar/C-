@@ -1,2 +1,2 @@
 # C#
-Projects developed in COMP123 classes at Centennial College in summer 2020
+Projects developed in COMP123 classes at Centennial College in Winter 2020
